@@ -1,10 +1,10 @@
 {
     "version":  "0.1.18",
     "notes":  "ZUWKI 0.1.18",
-    "pub_date":  "2026-06-19T15:53:05Z",
+    "pub_date":  "2026-06-19T15:59:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjV0UWRMNWZxMGJQNnVHbTBLdUdHKzlEcjNZKzh0K21UUzFja04rSWRjZ0o3TTNjQ3NYT096NzdaWjY5Kzd5NjZGOEt2MlRQSU40cDRpL0lJTkdPbWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg0MjY5CWZpbGU6WlVXS0lfMC4xLjE4X3g2NC1zZXR1cC5leGUKU09CMnAzRUc0QkoybGhPTHV6cm9icUdKcGg4Y29rUS9CZlJtUTNFelZqc3dTUTM4WlZobDhTdm12MDVVNXZMOU82TVYvdUNLZEpOZmV2cnpobmlmRGc9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRitVRzhxeW1HN201OHk1WEVpcmJMMmRCb3hYbDkxaDN2Unk1dGJlM0g5eTVJbmg4SC9mYnkzSzk3dmxRemZSMDFxcnlSYW14NHZpUDF5TWlHcUUxeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg0NzgwCWZpbGU6WlVXS0lfMC4xLjE4X3g2NC1zZXR1cC5leGUKWVNoRUQ2VHlyV2llQ2lCS255ZFpvazJpVTVtU2ZuU29KWXhTNTZrNWN0bXJZc0I1Kys1VDYwTVZPNjlLQUZrUnV6ZEFFUFZweVg0MmhjUHJMSE9SQnc9PQo=",
                                              "url":  "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.18/ZUWKI_0.1.18_x64-setup.exe"
                                          }
                   }
