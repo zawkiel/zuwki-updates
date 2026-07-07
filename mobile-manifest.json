@@ -1,0 +1,13 @@
+{
+  "product": "ZUWKI",
+  "channel": "stable",
+  "version": "1.0.2",
+  "updatedAt": "2026-07-07T18:39:06.000Z",
+  "android": {
+    "label": "Android APK",
+    "fileName": "moddesk-mobile-android-1.0.2.apk",
+    "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.21/moddesk-mobile-android-1.0.2.apk",
+    "localPath": "releases/android/moddesk-mobile-android-1.0.2.apk",
+    "sha256": "97FD291C7B7E5B1CCD62C9E56D3E79D055DBF50217B8CEBD6647C9E2F4F93207"
+  }
+}
