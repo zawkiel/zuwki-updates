@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.21",
-    "notes":  "ZUWKI 0.1.21",
-    "pub_date":  "2026-07-08T10:30:23Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjY4cS9LV1huOFlwVzJGYjcxbUZNY0ZUdU1YSEtvcmExbTJobGN3OTh0dERrT2ZmZnVlNmFZL0hoR1dXZ0xoRVkraWZSeG5lVFdEUWdFUXdVLzg0THc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTA2NjE1CWZpbGU6WlVXS0lfMC4xLjIxX3g2NC1zZXR1cC5leGUKTHlpL1R1VjZwb2RvVEZUTlhqaGZSbWdRb0h5U3pBN1l4Z3BSRHhPZU9JK0hUME5UTnRTaWtZVTRzSWVLdVhLSEI0UHNRUE56aU5ERjNaUjAvRk15Q0E9PQo=",
-                                             "url":  "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.21/ZUWKI_0.1.21_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.1.22",
+  "notes": "Windows: исправлены live-статус, сохранение и обмен маркерами, задачами, профилями и журналом. Добавлены выбор эфира, ссылки на таймкоды записи, компактные задачи, плавное перемещение и адаптивная тема.",
+  "pub_date": "2026-10-02T07:19:31Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRnh1dklzZU9VNHUvdGJyMHdLWXlHc3g2M1NPWUw2citHeXRzczZnanNUd3N2QmN0YW8xV3RaVmxSRHo4cXZZekxZVXBmV2txWk9TakEzQWo1Mm5RMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI1NDcxCWZpbGU6WlVXS0lfMC4xLjIyX3g2NC1zZXR1cC5leGUKTUhuZnJ0Vmlod1VuUktteVBES1JjSFl5aVp4WVByck1ybWlEeTRrZXIyNzBMUnluRXZBZTBoU1M0WXdQb1hWMWxFemZTcFpURXBJaGZjWERLSDF3Q0E9PQo=",
+      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.22/ZUWKI_0.1.22_x64-setup.exe"
+    }
+  }
 }
