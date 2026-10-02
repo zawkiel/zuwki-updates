@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "Windows: исправлены live-статус, сохранение и обмен маркерами, задачами, профилями и журналом. Добавлены выбор эфира, ссылки на таймкоды записи, компактные задачи, плавное перемещение и адаптивная тема.",
-  "pub_date": "2026-10-02T07:19:31Z",
+  "version": "0.1.23",
+  "notes": "Windows: исправлены рывки карточек чатов, сохранение раскладки и отображение этапов синхронизации. Серверные квоты запросов разделены между устройствами.",
+  "pub_date": "2026-10-02T10:01:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRnh1dklzZU9VNHUvdGJyMHdLWXlHc3g2M1NPWUw2citHeXRzczZnanNUd3N2QmN0YW8xV3RaVmxSRHo4cXZZekxZVXBmV2txWk9TakEzQWo1Mm5RMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI1NDcxCWZpbGU6WlVXS0lfMC4xLjIyX3g2NC1zZXR1cC5leGUKTUhuZnJ0Vmlod1VuUktteVBES1JjSFl5aVp4WVByck1ybWlEeTRrZXIyNzBMUnluRXZBZTBoU1M0WXdQb1hWMWxFemZTcFpURXBJaGZjWERLSDF3Q0E9PQo=",
-      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.22/ZUWKI_0.1.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRi9SYkJqTGt2MllBbFhwSDBmN3pJOGYyN0czNk1uTVczQlZ1czEyVExBdkhocDdWR3dFd1B1WDltbzlmV1pJSnh5eU5oWUxIazd1TnpkSGxSOHJGV1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTM1MjM1CWZpbGU6WlVXS0lfMC4xLjIzX3g2NC1zZXR1cC5leGUKZ0RDeFdMdi94MTQ0WFYxdkhWbGhmdnJQMWIraDZWcDUxazNUNm1MR3BwVUJVT0RZUnowVTl5QjJiSzdpSFZVSkhmdmU3bTlUSXhyQ3BXWFFGV25ZQ2c9PQo=",
+      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.23/ZUWKI_0.1.23_x64-setup.exe"
     }
   }
 }
