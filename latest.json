@@ -1,11 +1,11 @@
 {
-  "version": "0.1.24",
-  "notes": "Neumorphism во всех разделах, адаптивный Fluid UI, годовой график стримов с GTA V и общими заметками по дням. Исправлены офлайн-синхронизация, параллельные правки, повторные попытки и обновление задач.",
-  "pub_date": "2026-10-03T22:22:37Z",
+  "version": "0.1.25",
+  "notes": "ZUWKI 0.1.25",
+  "pub_date": "2026-10-03T23:48:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRnpVS29RTXhuWnBBOFErRVVxQlpicTY3ZXNJeVNFa1lNWEkzV3AxcUcvME1oRFJpMno4ZEUwdExNOEhXMEtYNUFtQTdtY1VmeEFBdzYvdnJ0ZEdLUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDY2MDIwCWZpbGU6WlVXS0lfMC4xLjI0X3g2NC1zZXR1cC5leGUKckx0blpsQU1HZ1hxMHVxK3RCcVNYL0xxb1NBTVRuYjM3bG92dTJUNnBrSUZnQXZqZlB2aWUwanNyZDZvVi9GMUNkdDI4WW1hbmpIVE1JR2VtQjk0QVE9PQo=",
-      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.24/ZUWKI_0.1.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRnpFZ0Y4cm9Yd2RSbUlxblkwY0tTQ0NHcm1IcU5NTjlOdnFBT1g0Z2VkVlNvUnlsVlIwdkdvODIyeXNTeVlYeDNlYTI4VkJ0V3NCbU5iWG92eDdQNWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDcxMjYxCWZpbGU6WlVXS0lfMC4xLjI1X3g2NC1zZXR1cC5leGUKMDJDY3dDMHMyT0FDNUZqeEgwVG42b24vMDdhSmZLSFVKUmIzcEVRN1Q1MXVXa05jZitrVnFIQ1VEekpxTXFzSy9DbUNNcllEQTl6b3dNZENhZjdnQ1E9PQo=",
+      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.25/ZUWKI_0.1.25_x64-setup.exe"
     }
   }
 }
