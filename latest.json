@@ -1,11 +1,11 @@
 {
-  "version": "0.1.23",
-  "notes": "Windows: исправлены рывки карточек чатов, сохранение раскладки и отображение этапов синхронизации. Серверные квоты запросов разделены между устройствами.",
-  "pub_date": "2026-10-02T10:01:33Z",
+  "version": "0.1.24",
+  "notes": "Neumorphism во всех разделах, адаптивный Fluid UI, годовой график стримов с GTA V и общими заметками по дням. Исправлены офлайн-синхронизация, параллельные правки, повторные попытки и обновление задач.",
+  "pub_date": "2026-10-03T22:22:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRi9SYkJqTGt2MllBbFhwSDBmN3pJOGYyN0czNk1uTVczQlZ1czEyVExBdkhocDdWR3dFd1B1WDltbzlmV1pJSnh5eU5oWUxIazd1TnpkSGxSOHJGV1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTM1MjM1CWZpbGU6WlVXS0lfMC4xLjIzX3g2NC1zZXR1cC5leGUKZ0RDeFdMdi94MTQ0WFYxdkhWbGhmdnJQMWIraDZWcDUxazNUNm1MR3BwVUJVT0RZUnowVTl5QjJiSzdpSFZVSkhmdmU3bTlUSXhyQ3BXWFFGV25ZQ2c9PQo=",
-      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.23/ZUWKI_0.1.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRnpVS29RTXhuWnBBOFErRVVxQlpicTY3ZXNJeVNFa1lNWEkzV3AxcUcvME1oRFJpMno4ZEUwdExNOEhXMEtYNUFtQTdtY1VmeEFBdzYvdnJ0ZEdLUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDY2MDIwCWZpbGU6WlVXS0lfMC4xLjI0X3g2NC1zZXR1cC5leGUKckx0blpsQU1HZ1hxMHVxK3RCcVNYL0xxb1NBTVRuYjM3bG92dTJUNnBrSUZnQXZqZlB2aWUwanNyZDZvVi9GMUNkdDI4WW1hbmpIVE1JR2VtQjk0QVE9PQo=",
+      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.24/ZUWKI_0.1.24_x64-setup.exe"
     }
   }
 }
