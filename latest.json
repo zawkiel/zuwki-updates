@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "ZUWKI 0.1.26: второй проход UI/UX, задачи и категории, Month/Year календарь, manual sync и меняющий объём жидкий Fluid.",
-  "pub_date": "2026-10-04T02:45:47Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjNlaThBaFJzajY4QXlBTCs1RlBFM09MTG5sNktKL05yM2VxTHdZdDJIQkRSd0dtUVpUOU8vM3ZVZlFNZkptV3Y0TFAydEtOWjdOK2xhbVp2U0VBUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDgxODg4CWZpbGU6WlVXS0lfMC4xLjI2X3g2NC1zZXR1cC5leGUKL3VvOG4rSVA0WGM5K1cyb2hHSDROV3VJakJRcmNXK3NialZGRTJRUlVYWTJlYjJnMmF1TEF6QWZsdmhPRFhxWldLSzlQaDB2NHZBdFN4Q1hORXExQUE9PQo=",
-      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v0.1.26/ZUWKI_0.1.26_x64-setup.exe"
-    }
-  }
+    "version":  "2.0.0",
+    "notes":  "ZUWKI 2.0.0",
+    "pub_date":  "2026-10-04T04:10:53Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjQ3Ri9ucDBGeERoSWZzMEg4Y1pUb2NEdU14eG0ycWFmeVBxazB0OG5rNUlTTHJsOUhTUXBpU1orOENVN21hdG9oMnJoOWcyWmVmK0MrSWVYd1dKMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2OTUyCWZpbGU6WlVXS0lfMi4wLjBfeDY0LXNldHVwLmV4ZQovaHBLWnhZMGYyb3hFM1NVOHRRZlUrU0dWbHlvc0pkSDN0aStmejB3WUJ0eFB6RVcxOFhnN1RIM1c2TGQ1dll4dlNTS3Y3UGtQVXFFYWdPb0xLK0lDQT09Cg==",
+                                             "url":  "https://github.com/zawkiel/zuwki-updates/releases/download/v2.0.0/ZUWKI_2.0.0_x64-setup.exe"
+                                         }
+                  }
 }
