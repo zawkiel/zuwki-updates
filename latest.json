@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "notes": "График: исправлены ложные интервалы и дни эфиров. Чат: рабочее пространство и размер блоков. Музыка: настройки автозаказов и видимый YouTube-плеер выбранного ПК. Приложения и аккаунты Twitch/Spotify подключаются в Настройках.",
-  "pub_date": "2026-10-15T02:24:51Z",
+  "version": "2.2.1",
+  "notes": "ZUWKI 2.2.1",
+  "pub_date": "2026-10-15T10:22:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjkwR1hSRms5cnVQb20zbytLbFVNZ2ZMbXFNeWJoU1FZL3pIeVRDR1lLQkZiSUltUElsZjJzdnVKWWZjUVpPaFl3WDJYRHNvV1prZmRZL2NTdlNzK0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDMxMDI4CWZpbGU6WlVXS0lfMi4yLjBfeDY0LXNldHVwLmV4ZQpxaVZrSXJuRmN1K24rUnhtQzVYKzBFandJQTZhMERDNDdIQ0tpUENKZ0pFNlFHODJ0M283OXNrVXA1ai9pdkVZaFRDc2JkQUI1R0d3MWNmMnM2NDREdz09Cg==",
-      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v2.2.0/ZUWKI_2.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjM4cUxkSmVJNEFHb2p4L2twcnlPeEFpbVZmWFoxQ2RtZng2QkVxbmRHbWZrREZyN0JsbllUVkI0Qjhqd05ZaGJhWkErMzFoTEVJeExBWlFIU1JQbGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU5NzAwCWZpbGU6WlVXS0lfMi4yLjFfeDY0LXNldHVwLmV4ZQpYUGRMTUw4anYzN3lLZmVNWUJZa0dyMkU4WDVaaFlhd3Q2dUpwbGpjOXlPdmszdDFRdDRzeVdhOGNWS0VyRFFzejQ1VVJsZUVFUGdIb1I4V3pRekpDQT09Cg==",
+      "url": "https://github.com/zawkiel/zuwki-updates/releases/download/v2.2.1/ZUWKI_2.2.1_x64-setup.exe"
     }
   }
 }
